@@ -57,11 +57,11 @@ make
        <td>Effectue un Dezoom</td>
    </tr>
    <tr>
-       <td>SCROLL DOWN-</td>
+       <td>SCROLL DOWN</td>
        <td>Effectue un Zoom</td>
    </tr>
    <tr>
-       <td>SPACE (Julia only)-</td>
+       <td>SPACE (Julia only)</td>
        <td>Permet de modifier la fractale en temps reel</td>
    </tr>
    <tr>
